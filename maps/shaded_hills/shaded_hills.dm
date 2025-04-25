@@ -7,6 +7,9 @@
 	#include "../../mods/species/drakes/_drakes.dme" // include before _fantasy.dme so overrides work
 	#include "../../mods/content/fantasy/_fantasy.dme"
 
+	// V20 Dark Ages Content
+	#include "../../mods/gloomlight/_gloomlight.dme"
+
 	#include "areas/_areas.dm"
 	#include "areas/downlands.dm"
 	#include "areas/grassland.dm"

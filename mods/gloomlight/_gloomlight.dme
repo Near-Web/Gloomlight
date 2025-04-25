@@ -1,0 +1,14 @@
+#ifndef MODPACK_GLOOMLIGHT
+#define MODPACK_GLOOMLIGHT
+// BEGIN_INCLUDE
+#include "_gloomlight.dm"
+#include "turfs.dm"
+#include "datum\overrides.dm"
+#include "datum\species.dm"
+#include "datum\vampire\bodytypes.dm"
+#include "datum\vampire\species.dm"
+#include "datum\vampire\organs.dm"
+#include "datum\vampire\traits.dm"
+#include "datum\vampire\torpor.dm"
+// END_INCLUDE
+#endif
