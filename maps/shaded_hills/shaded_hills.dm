@@ -9,6 +9,8 @@
 	#include "../../mods/content/fantasy/_fantasy.dme"
 	#include "../../mods/content/blacksmithy/_blacksmithy.dme"
 
+	#include "../../mods/content/sexcon/_sexcon.dme"
+
 	#include "areas/_areas.dm"
 	#include "areas/downlands.dm"
 	#include "areas/grassland.dm"
